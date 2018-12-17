@@ -1,0 +1,29 @@
+{
+  "name": "add-leading-zeros",
+  "version": "1.0.0",
+  "description": "Add leading zeros on binary string based on n-grouped bits",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bredele/add-leading-zeros.git"
+  },
+  "keywords": [
+    "leading",
+    "zero",
+    "add",
+    "bit",
+    "binary"
+  ],
+  "author": "Olivier Wietrich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bredele/add-leading-zeros/issues"
+  },
+  "homepage": "https://github.com/bredele/add-leading-zeros#readme"
+}

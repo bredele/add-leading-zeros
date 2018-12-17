@@ -1,6 +1,6 @@
 # add-leading-zeros
 
-![Build Status](https://travis-ci.org/bredele/add-leading-zeros.svg?branch=master)](https://travis-ci.org/bredele/add-leading-zeros)
+[![Build Status](https://travis-ci.org/bredele/add-leading-zeros.svg?branch=master)](https://travis-ci.org/bredele/add-leading-zeros)
  [![NPM](https://img.shields.io/npm/v/add-leading-zeros.svg)](https://www.npmjs.com/package/add-leading-zeros)
  [![Downloads](https://img.shields.io/npm/dm/add-leading-zeros.svg)](http://npm-stat.com/charts.html?package=add-leading-zeros)
  [![pledge](https://bredele.github.io/contributing-guide/community-pledge.svg)](https://github.com/bredele/contributing-guide/blob/master/guidelines.md)

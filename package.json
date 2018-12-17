@@ -9,6 +9,9 @@
   "scripts": {
     "test": "tape test/*.js"
   },
+  "engines": {
+    "node": ">= 8.9.4"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bredele/add-leading-zeros.git"
@@ -21,9 +24,12 @@
     "binary"
   ],
   "author": "Olivier Wietrich",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bredele/add-leading-zeros/issues"
   },
-  "homepage": "https://github.com/bredele/add-leading-zeros#readme"
+  "homepage": "https://github.com/bredele/add-leading-zeros#readme",
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
 }
